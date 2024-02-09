@@ -8,6 +8,8 @@
 
 📫 You can reach me via email at tuhin.mailme@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/tuhin-paul-dotnet/
 
+📱 You can reach me via WhatsApp at +91-9231978777
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy participating in hackathons and have won the Microsoft Hackathon in 2022! 
