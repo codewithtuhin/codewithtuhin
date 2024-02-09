@@ -1,4 +1,4 @@
-👋 Hi, I’m Tuhin Kumar Paul
+👋 Hi, I’m Tuhin K. Paul
 
 👀 I’m interested in .NET development and cloud technologies.
 
